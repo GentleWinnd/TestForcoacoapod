@@ -9,5 +9,8 @@
 #import "zhangPOd.h"
 
 @implementation zhangPOd
-
+- (void)testForPod {
+    
+    NSLog(@"heheh");
+}
 @end
